@@ -2,7 +2,7 @@
     "name": "Galdur",
     "id": "galdur",
     "prefix": "galdur",
-    "version": "1.2.1e",
+    "version": "1.2.1f",
     "website_url": "https://github.com/Eremel/Galdur",
     "description": "A modification to the run setup screen to ease use.",
     "author": ["Eremel_"],
@@ -10,6 +10,6 @@
     "priority": -10000,
     "badge_colour": "3FC7EB",
     "dependencies": [
-        "Steamodded (>=1.0.0~ALPHA-1217b) (<=1.0.0~BETA-1814a)"
+        "Steamodded (>=1.0.0~ALPHA-1217b)"
     ]
 }
